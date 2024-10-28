@@ -12,10 +12,9 @@
 ### Principal
 
 - **descricao:** Comidas ofertados e respectivos preços, com imagens e em formato de cards. Botão para descriçao detalhada do produto.
- comidas e bebidas ofertadas: pizza (frango, carne, calabresa), hambúrguer (carne moída), sanduiche (frango, presunto), brigadeiro (beijinho, brigadeiro), sucos (morango, laranja, abacaxi), todinho
+ comidas e bebidas ofertadas: pizza (frango, carne, calabresa), hambúrguer (carne moída), sanduiche (frango, presunto), brigadeiro (beijinho, brigadeiro), bebidas (morango, laranja, abacaxi, todinho), bolo de chocolate.
 
 ### Segunda
 
--**descrição:** descrição do produto, ingredientes e variações de sabores.
+-**descrição:** descrição do produto, ingredientes e variações de sabores, com imagens.
 
-### Produtos
