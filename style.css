@@ -1,0 +1,25 @@
+* {
+margin: 0;
+padding: 0;
+
+
+}
+
+.card {
+    width: 530px;
+    height: 350px;
+    background-color: rgb(47, 7, 7);
+    align-items: center;
+
+}
+
+.letra{
+    font-style: oblique;
+    text-align: center;
+}
+
+.imagem{
+    height: 300px;
+    width: 300px;
+    align-items: center;
+}
