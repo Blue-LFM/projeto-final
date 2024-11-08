@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #F1E1AD;
+
+}
+
+.card{
+    display: flex;
+    background-color: #362c1e;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 15px;
+    border-radius: 15px;
+    width: 350px;
+    height: 300px;
+
+
+}
