@@ -17,3 +17,9 @@
 
 
 }
+.imagem {
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    background-color: #362c1e;
+}
